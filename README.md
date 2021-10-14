@@ -43,7 +43,7 @@ Qual categoria você escolhe:
 Se digitado ``N``, será exibida a lista completa de livros ordenada por número de paginas.
 | (index) | (id) | nome | autor | categoria | paginas | recomenda| leu |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 2 | 'O homem mais rico da babilônia' | 'George S. Clason' | 'Autoajuda' | 144 | true | true |
+| 0 | 2 | 'O homem mais rico da Babilônia' | 'George S. Clason' | 'Autoajuda' | 144 | true | true |
 | 1 | 4 | 'Os segredos da mente milionária' | 'T. Harv Eker' | 'Autoajuda' | 160 | true | true |
 | 2 | 5 | 'Os axiomas de zurique' | 'Max Gunther' | 'Investimentos' | 208 | false | true |
 | 3 | 6 | 'O admirável mundo novo' | 'Aldous Huxley' | 'Romance' | 272 | false | false |
