@@ -1,0 +1,57 @@
+const livros = [
+    {
+        id: 1,
+        nome: "O mundo de sofia",
+        autor: "Jostein Gaarder",
+        categoria: "Romance",
+        paginas: 555,
+        recomenda: true,
+        leu: true,
+    },
+    {
+        id: 2,
+        nome: "O homem mais rico da Babilônia",
+        autor: "George S. Clason",
+        categoria: "Autoajuda",
+        paginas: 144,
+        recomenda: true,
+        leu: true,
+    },
+    {
+        id: 3,
+        nome: "Os 7 Hábitos das pessoas altamente eficazes",
+        autor: "Stephen Covey",
+        categoria: "Autoajuda",
+        paginas: 455,
+        recomenda: true,
+        leu: true,
+    },
+    {
+        id: 4,
+        nome: "Os segredos da mente milionária",
+        autor: "T. Harv Eker ",
+        categoria: "Autoajuda",
+        paginas: 160,
+        recomenda: true,
+        leu: true,
+    },
+    {
+        id: 5,
+        nome: "Os Axiomas de Zurique",
+        autor: "Max Gunther",
+        categoria: "Investimentos",
+        paginas: 208,
+        recomenda: false,
+        leu: true,
+    },
+    {
+        id: 6,
+        nome: "O admiravel mundo novo",
+        autor: "Aldous Huxley",
+        categoria: "Romance",
+        paginas: 272,
+        recomenda: false,
+        leu: false,
+    }
+]
+module.exports = livros
